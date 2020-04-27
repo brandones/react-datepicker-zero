@@ -1,0 +1,10 @@
+{
+  "name": "react-datepicker-zero",
+  "version": "1.0.0",
+  "description": "The featherweight champion React datepicker",
+  "main": "index.js",
+  "repository": "https://github.com/brandones/react-datepicker-zero",
+  "author": "Brandon Istenes",
+  "license": "MIT",
+  "private": false
+}
